@@ -2,9 +2,11 @@
 
 ## Description:
 
-This Laravel 11 project serves RESTful API for managing a list of tasks (to-do list). The API provides functionality to add, view (one task/ All Tasks With Filters), edit, and delete tasks, as well as assign tasks to users. Each task have a title, description, due date, and status (e.g.,
-"Pending", "Blocked", "In Progress", "Completed"), JWT, role-based access control, only users with the "admin" role can manage users, phpunit for unit testing, only one test case implemented inside the tests folder. It is designed to Software Developer Role - Test Assignment -
-Backend.
+This Laravel 11, PHP 8.2.7, MySql, sqlite(For Unit test only) project serves RESTful API for managing a list of tasks (to-do list).
+The API provides functionality to add, view (one task/ All Tasks With Filters), edit, and delete tasks, as well as assign tasks to users. Each task have a title, description, due date, and status (e.g.,
+"Pending", "Blocked", "In Progress", "Completed"), JWT, role-based access control, only users with the "admin" role can manage users, phpunit for unit testing, only one test case implemented inside the tests folder.
+
+It is designed to Software Developer Role - Test Assignment - Backend.
 
 ### Installation:
 
