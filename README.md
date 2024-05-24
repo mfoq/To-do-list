@@ -9,13 +9,21 @@ Backend.
 ### Installation:
 
 Clone the repository: `git clone git@github.com:mfoq/To-do-list.git`
+
 Navigate to the project directory
+
 Install dependencies: `composer install`
+
 Copy .env.example to .env
+
 Generate application key: php artisan key:generate
+
 Set up your database connection in the .env file.
+
 Run migrations: `php artisan migrate`
+
 Seed the database: `php artisan db:seed`
+
 
 ### Usage:
 
