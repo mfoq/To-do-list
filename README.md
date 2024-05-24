@@ -25,6 +25,11 @@ Access the application in your browser at http://localhost:8000
 To run the tests:
 `./vendor/bin/phpunit`
 
+### Postman Collctins endpoints :
+Auth collection => `https://documenter.getpostman.com/view/24865549/2sA3QqfCV2` 
+Task collection => `https://documenter.getpostman.com/view/24865549/2sA3QqfCV4` 
+User collection => `https://documenter.getpostman.com/view/24865549/2sA3QqfCV5` 
+
 ### Author:
 
 Mahmood Alfoqahaa
