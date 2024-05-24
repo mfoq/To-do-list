@@ -1,4 +1,4 @@
-# To do list RESTful API:
+# To do list RESTful API
 
 ## Description:
 
