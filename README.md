@@ -35,7 +35,7 @@ To run the tests:
 
 `./vendor/bin/phpunit`
 
-### Postman Collctins endpoints :
+### Postman Collections endpoints :
 Auth collection => `https://documenter.getpostman.com/view/24865549/2sA3QqfCV2` 
 
 Task collection => `https://documenter.getpostman.com/view/24865549/2sA3QqfCV4` 
