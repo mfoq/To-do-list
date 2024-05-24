@@ -27,7 +27,9 @@ To run the tests:
 
 ### Postman Collctins endpoints :
 Auth collection => `https://documenter.getpostman.com/view/24865549/2sA3QqfCV2` 
+
 Task collection => `https://documenter.getpostman.com/view/24865549/2sA3QqfCV4` 
+
 User collection => `https://documenter.getpostman.com/view/24865549/2sA3QqfCV5` 
 
 ### Author:
