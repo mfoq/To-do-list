@@ -28,9 +28,11 @@ Seed the database: `php artisan db:seed`
 ### Usage:
 
 Serve the application: `php artisan serve`
+
 Access the application in your browser at http://localhost:8000
 
 To run the tests:
+
 `./vendor/bin/phpunit`
 
 ### Postman Collctins endpoints :
